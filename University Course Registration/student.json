@@ -1,0 +1,54 @@
+{
+    "students": [
+        {
+            "SID": 1001,
+            "Firstname": "Harry",
+            "LastName": "Styles",
+            "email": "harry@egmail.com",
+            "NearCity": "Kandy",
+            "Course": ["Function","HND","Degree"],
+            "Guardian": "James Cameron",
+            "Subject": ["ETF","ORDBMS","OOP","SE","IP"]
+        },
+        {
+            "SID": 1024,
+            "Firstname": "John",
+            "LastName": "Wick",
+            "email": "john@egmail.com",
+            "NearCity": "Jaffna",
+            "Course": ["HND","Degree"],
+            "Guardian": "Sakilan",
+            "Subject": ["DCCN","DBMS","OOP","SE","IP"]
+        },
+        {
+            "SID": 1805,
+            "Firstname": "Jack",
+            "LastName": "Sparrow",
+            "email": "jack@egmail.com",
+            "NearCity": "Colombo",
+            "Course": ["Function","HND"],
+            "Guardian": "Peter",
+            "Subject": ["Maths","ORDBMS","OOP","SE","CF"]
+        },
+        {
+            "SID": 1234,
+            "Firstname": "Peter",
+            "LastName": "Parker",
+            "email": "peter@egmail.com",
+            "NearCity": "Galle",
+            "Course": ["HND","Degree"],
+            "Guardian": "Tom",
+            "Subject": ["ETF","WAD","Software","Maths","IP"]
+        },
+        {
+            "SID": 1906,
+            "Firstname": "Harry",
+            "LastName": "Potter",
+            "email": "harry@egmail.com",
+            "NearCity": "Badulla",
+            "Course": ["Function","HND"],
+            "Guardian": "Johnny Depp",
+            "Subject": ["CF","SE","IP","DBMS","WAD"]
+        }
+    ]
+}
